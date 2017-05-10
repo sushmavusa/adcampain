@@ -24,7 +24,7 @@ Content-Type:application/json
 
 3. To get the list of ad campain 
 get method:
-http://localhost:8080/ad/
+http://localhost:8080/ads
 
 headers:
 Content-Type:application/json
